@@ -11,7 +11,7 @@
                             align-items-center">
             <div class="card shadow-lg p-4" style="max-width: 400px; width: 100%;">
                 <?php
-                    $nombre = "Jose";
+                    $nombre = "William";
                     $fecha = date("d/m/Y");
                     $hora = date("H:i");
                 ?>
